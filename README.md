@@ -1,4 +1,4 @@
-### Software Engineer juggling too few hours in a day.
+### Software Developer juggling too few hours in a day.
 **Programming and UX/UI Design is my passion** - _but I also got experince in graphic design, music production and video editing._
 
 > **Currently studying _Interaction and Design_ on [OsloMet](https://oslomet.no) and I am actively looking for a job opportunity as a developer in Oslo.**  
