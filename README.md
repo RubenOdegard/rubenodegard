@@ -2,8 +2,10 @@
 **Programming and UX/UI Design is my passion** - _but I also got experince in graphic design, music production and video editing._
 
 > **Currently studying _Interaction and Design_ on [OsloMet](https://oslomet.no) and I am actively looking for a job opportunity as a developer in Oslo.**  
-> My study notes are written in **Markdown**, and I use [LazyGit](https://github.com/jesseduffield/lazygit) for version control and [Fuzzy Finder](https://github.com/junegunn/fzf) to navigate between my notes.
+> My study notes are written in **Markdown**, and I use [LazyGit](https://github.com/jesseduffield/lazygit) for version control and [Fuzzy Finder](https://github.com/junegunn/fzf) to navigate between them.
 
+> Recently completed **Harvard's CS50 - Introduction to Computer Science**, and I have started **The Odin Project** as of early 2024.  
+> I am juggling this between a full time job and studies, but feel free to [follow my progress here](https://github.com/RubenOdegard/the-odin-project).
 ---
 
 **Languages**  
@@ -18,12 +20,13 @@
 
 
 **Developer Tools**  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)](https://www.sql.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
+[![PlanetScale](https://img.shields.io/badge/PlanetScale-40B14E?style=flat-square&logo=planetscale&logoColor=white)](https://planetscale.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
 **Design Tools**  
