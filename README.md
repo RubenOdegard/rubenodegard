@@ -5,8 +5,13 @@
 > My study notes are written in **Markdown**, and I use [LazyGit](https://github.com/jesseduffield/lazygit) for version control and [Fuzzy Finder](https://github.com/junegunn/fzf) to navigate between them.
 
 > Recently completed **Harvard's CS50 - Introduction to Computer Science**, and I have started **The Odin Project** as of early 2024.  
-> I am juggling this between a full time job and studies, but feel free to [follow my progress here](https://github.com/RubenOdegard/the-odin-project).
----
+> I am juggling this between a full time job and studies, but feel free to [look at my source code and follow my progress here](https://github.com/RubenOdegard/the-odin-project).
+
+
+```bash
+https://rubenodegard.com
+```
+
 
 **Languages**  
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
