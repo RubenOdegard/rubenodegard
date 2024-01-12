@@ -1,5 +1,5 @@
 ### Software Developer juggling too few hours in a day.
-**Programming and UX/UI Design is my passion** - _but I also got experince in graphic design, music production and video editing._
+**Programming and UX/UI Design is my passion** - _but I also got experince in graphics design, music production and video editing._
 
 > **Currently studying _Interaction and Design_ on [OsloMet](https://oslomet.no) and I am actively looking for a job opportunity as a developer in Oslo.**  
 > My study notes are written in **Markdown**, and I use [LazyGit](https://github.com/jesseduffield/lazygit) for version control and [Fuzzy Finder](https://github.com/junegunn/fzf) to navigate between them.
