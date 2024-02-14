@@ -2,7 +2,6 @@
 **Programming and UX/UI Design is my passion** - _with some experince in graphics design, music production and video editing._
 
 > **Currently studying _Interaction and Design_ on [OsloMet](https://oslomet.no) and I am actively looking for a job opportunity as a developer in Oslo.**
-> My study notes are written in **Markdown**, and I use [LazyGit](https://github.com/jesseduffield/lazygit) for version control and [Fuzzy Finder](https://github.com/junegunn/fzf) to navigate between them.
 
 > Recently completed **Harvard's CS50 - Introduction to Computer Science**, and I have started **The Odin Project** as of early 2024.
 > I am juggling this between a full time job and studies, but feel free to [look at my source code and follow my progress here](https://github.com/RubenOdegard/the-odin-project).
