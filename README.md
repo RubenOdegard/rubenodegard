@@ -11,6 +11,3 @@ I'm self-hosting everything I can, including Docker containerized versions of:
 - [MinIO](https://min.io) (Open Source S3 storage with AWS SDK)
 - [Directus](https://directus.io/) (Open Source CMS)
 - Various databases (SQLite, PostgreSQL, Redis, and [libsql](https://github.com/tursodatabase/libsql)).
-
-
-[LinkedIn](https://linkedin.com/in/rubenodegard)
